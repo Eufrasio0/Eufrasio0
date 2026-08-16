@@ -71,6 +71,7 @@ Acredito que estudar tecnologia também envolve entender melhor **como pensamos,
 <a href="https://www.linkedin.com/in/eufrasio-arruda-neto-500028386/"> <img src="https://img.shields.io/badge/LinkedIn-Eufrasio%20Arruda%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 </div>
+
 ---
 
 <div align="center">
