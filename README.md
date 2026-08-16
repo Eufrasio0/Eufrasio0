@@ -64,16 +64,13 @@ Acredito que estudar tecnologia também envolve entender melhor **como pensamos,
 
 ---
 
-## 📊 GitHub
+📫 Contato
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/eufrasio-arruda-neto-500028386/"> <img src="https://img.shields.io/badge/LinkedIn-Eufrasio%20Arruda%20Neto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 </div>
-
 ---
 
 <div align="center">
