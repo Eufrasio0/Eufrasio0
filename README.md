@@ -25,6 +25,7 @@ Gosto de aprender construindo: desde pequenos programas e aplicações até proj
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logisim-Educational-6A5ACD?style=for-the-badge&logoColor=white"/>
 </p>
 
 Tenho bastante interesse por **sistemas embarcados**, programação de microcontroladores e pela criação de projetos que conectam software ao mundo físico.
